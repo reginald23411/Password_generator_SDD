@@ -3,8 +3,9 @@ public class main {
         passwordGenerator generator = new passwordGenerator();
         passwordGenerator generator1 = new passwordGenerator();
         //StringBuffer stringBuffer = new StringBuffer();
-        generator.setPassword("iloveangus1122");
-        generator1.setPassword("iloveangus1122");
+        generator.setPassword("ilovepussy");
+        generator1.setPassword("ilovepussy1122");
+        System.out.println("Original password:ilovepussy1122");
         System.out.println(generator.getPassword());
         System.out.println(generator1.getPassword());
     }
